@@ -1,1 +1,1 @@
-<iframe src="NBA_Shot_Plot.html" width="800" height="600" style="border:none;"></iframe>
+[![Shot Chart Preview](chart_preview.png)](NBA_Shot_Plot.html)
